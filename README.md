@@ -1,2 +1,2 @@
-# hello-world
+# README
 Just another reposaitory
